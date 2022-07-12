@@ -1,1 +1,1 @@
-# Simple_AnimalCNN
+# Animal Detection using CNN
